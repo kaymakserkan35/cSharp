@@ -1,0 +1,15 @@
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\ProjectTemplate\ProjectTemplate\ProjectTemplate.SERVİCE\bin\Debug\net5.0\ProjectTemplate.SERVİCE.deps.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\ProjectTemplate\ProjectTemplate\ProjectTemplate.SERVİCE\bin\Debug\net5.0\ProjectTemplate.SERVİCE.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\ProjectTemplate\ProjectTemplate\ProjectTemplate.SERVİCE\bin\Debug\net5.0\ref\ProjectTemplate.SERVİCE.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\ProjectTemplate\ProjectTemplate\ProjectTemplate.SERVİCE\bin\Debug\net5.0\ProjectTemplate.SERVİCE.pdb
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\ProjectTemplate\ProjectTemplate\ProjectTemplate.SERVİCE\obj\Debug\net5.0\ProjectTemplate.SERVİCE.csproj.AssemblyReference.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\ProjectTemplate\ProjectTemplate\ProjectTemplate.SERVİCE\obj\Debug\net5.0\ProjectTemplate.SERVİCE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\ProjectTemplate\ProjectTemplate\ProjectTemplate.SERVİCE\obj\Debug\net5.0\ProjectTemplate.SERVİCE.AssemblyInfoInputs.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\ProjectTemplate\ProjectTemplate\ProjectTemplate.SERVİCE\obj\Debug\net5.0\ProjectTemplate.SERVİCE.AssemblyInfo.cs
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\ProjectTemplate\ProjectTemplate\ProjectTemplate.SERVİCE\obj\Debug\net5.0\ProjectTemplate.SERVİCE.csproj.CoreCompileInputs.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\ProjectTemplate\ProjectTemplate\ProjectTemplate.SERVİCE\obj\Debug\net5.0\ProjectTemplate.SERVİCE.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\ProjectTemplate\ProjectTemplate\ProjectTemplate.SERVİCE\obj\Debug\net5.0\ref\ProjectTemplate.SERVİCE.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\ProjectTemplate\ProjectTemplate\ProjectTemplate.SERVİCE\obj\Debug\net5.0\ProjectTemplate.SERVİCE.pdb
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\ProjectTemplate\ProjectTemplate\ProjectTemplate.SERVİCE\bin\Debug\net5.0\ProjectTemplate.DATA.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\ProjectTemplate\ProjectTemplate\ProjectTemplate.SERVİCE\bin\Debug\net5.0\ProjectTemplate.DATA.pdb
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\ProjectTemplate\ProjectTemplate\ProjectTemplate.SERVİCE\obj\Debug\net5.0\ProjectTemplate.SERVİCE.csproj.CopyComplete

@@ -1,0 +1,16 @@
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp-dersleri\do-while-circle\do-while-circle\do-while-circle\bin\Debug\net5.0\do-while-circle.exe
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp-dersleri\do-while-circle\do-while-circle\do-while-circle\bin\Debug\net5.0\do-while-circle.deps.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp-dersleri\do-while-circle\do-while-circle\do-while-circle\bin\Debug\net5.0\do-while-circle.runtimeconfig.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp-dersleri\do-while-circle\do-while-circle\do-while-circle\bin\Debug\net5.0\do-while-circle.runtimeconfig.dev.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp-dersleri\do-while-circle\do-while-circle\do-while-circle\bin\Debug\net5.0\do-while-circle.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp-dersleri\do-while-circle\do-while-circle\do-while-circle\bin\Debug\net5.0\ref\do-while-circle.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp-dersleri\do-while-circle\do-while-circle\do-while-circle\bin\Debug\net5.0\do-while-circle.pdb
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp-dersleri\do-while-circle\do-while-circle\do-while-circle\obj\Debug\net5.0\do-while-circle.csprojAssemblyReference.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp-dersleri\do-while-circle\do-while-circle\do-while-circle\obj\Debug\net5.0\do-while-circle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp-dersleri\do-while-circle\do-while-circle\do-while-circle\obj\Debug\net5.0\do-while-circle.AssemblyInfoInputs.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp-dersleri\do-while-circle\do-while-circle\do-while-circle\obj\Debug\net5.0\do-while-circle.AssemblyInfo.cs
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp-dersleri\do-while-circle\do-while-circle\do-while-circle\obj\Debug\net5.0\do-while-circle.csproj.CoreCompileInputs.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp-dersleri\do-while-circle\do-while-circle\do-while-circle\obj\Debug\net5.0\do-while-circle.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp-dersleri\do-while-circle\do-while-circle\do-while-circle\obj\Debug\net5.0\ref\do-while-circle.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp-dersleri\do-while-circle\do-while-circle\do-while-circle\obj\Debug\net5.0\do-while-circle.pdb
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp-dersleri\do-while-circle\do-while-circle\do-while-circle\obj\Debug\net5.0\do-while-circle.genruntimeconfig.cache

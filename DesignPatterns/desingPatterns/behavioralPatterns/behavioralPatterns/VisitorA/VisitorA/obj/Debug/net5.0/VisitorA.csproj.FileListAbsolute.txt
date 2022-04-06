@@ -1,0 +1,15 @@
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\VisitorA\VisitorA\obj\Debug\net5.0\VisitorA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\VisitorA\VisitorA\obj\Debug\net5.0\VisitorA.AssemblyInfoInputs.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\VisitorA\VisitorA\obj\Debug\net5.0\VisitorA.AssemblyInfo.cs
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\VisitorA\VisitorA\obj\Debug\net5.0\VisitorA.csproj.CoreCompileInputs.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\VisitorA\VisitorA\bin\Debug\net5.0\VisitorA.exe
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\VisitorA\VisitorA\bin\Debug\net5.0\VisitorA.deps.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\VisitorA\VisitorA\bin\Debug\net5.0\VisitorA.runtimeconfig.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\VisitorA\VisitorA\bin\Debug\net5.0\VisitorA.runtimeconfig.dev.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\VisitorA\VisitorA\bin\Debug\net5.0\VisitorA.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\VisitorA\VisitorA\bin\Debug\net5.0\ref\VisitorA.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\VisitorA\VisitorA\bin\Debug\net5.0\VisitorA.pdb
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\VisitorA\VisitorA\obj\Debug\net5.0\VisitorA.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\VisitorA\VisitorA\obj\Debug\net5.0\ref\VisitorA.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\VisitorA\VisitorA\obj\Debug\net5.0\VisitorA.pdb
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\VisitorA\VisitorA\obj\Debug\net5.0\VisitorA.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\nyks.35\source\Repos\cSharp-dersleri1\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\BridgeB\BridgeB\bin\Debug\net5.0\BridgeB.exe
+C:\Users\nyks.35\source\Repos\cSharp-dersleri1\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\BridgeB\BridgeB\bin\Debug\net5.0\BridgeB.deps.json
+C:\Users\nyks.35\source\Repos\cSharp-dersleri1\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\BridgeB\BridgeB\bin\Debug\net5.0\BridgeB.runtimeconfig.json
+C:\Users\nyks.35\source\Repos\cSharp-dersleri1\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\BridgeB\BridgeB\bin\Debug\net5.0\BridgeB.runtimeconfig.dev.json
+C:\Users\nyks.35\source\Repos\cSharp-dersleri1\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\BridgeB\BridgeB\bin\Debug\net5.0\BridgeB.dll
+C:\Users\nyks.35\source\Repos\cSharp-dersleri1\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\BridgeB\BridgeB\bin\Debug\net5.0\ref\BridgeB.dll
+C:\Users\nyks.35\source\Repos\cSharp-dersleri1\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\BridgeB\BridgeB\bin\Debug\net5.0\BridgeB.pdb
+C:\Users\nyks.35\source\Repos\cSharp-dersleri1\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\BridgeB\BridgeB\obj\Debug\net5.0\BridgeB.csprojAssemblyReference.cache
+C:\Users\nyks.35\source\Repos\cSharp-dersleri1\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\BridgeB\BridgeB\obj\Debug\net5.0\BridgeB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyks.35\source\Repos\cSharp-dersleri1\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\BridgeB\BridgeB\obj\Debug\net5.0\BridgeB.AssemblyInfoInputs.cache
+C:\Users\nyks.35\source\Repos\cSharp-dersleri1\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\BridgeB\BridgeB\obj\Debug\net5.0\BridgeB.AssemblyInfo.cs
+C:\Users\nyks.35\source\Repos\cSharp-dersleri1\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\BridgeB\BridgeB\obj\Debug\net5.0\BridgeB.csproj.CoreCompileInputs.cache
+C:\Users\nyks.35\source\Repos\cSharp-dersleri1\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\BridgeB\BridgeB\obj\Debug\net5.0\BridgeB.dll
+C:\Users\nyks.35\source\Repos\cSharp-dersleri1\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\BridgeB\BridgeB\obj\Debug\net5.0\ref\BridgeB.dll
+C:\Users\nyks.35\source\Repos\cSharp-dersleri1\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\BridgeB\BridgeB\obj\Debug\net5.0\BridgeB.pdb
+C:\Users\nyks.35\source\Repos\cSharp-dersleri1\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\BridgeB\BridgeB\obj\Debug\net5.0\BridgeB.genruntimeconfig.cache

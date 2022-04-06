@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>WinExe</OutputType>
+		<TargetFramework>net5.0-windows</TargetFramework>
+		<UseWindowsForms>true</UseWindowsForms>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\ProjectTemplate.SERVİCE\ProjectTemplate.SERVİCE.csproj" />
+		<PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="5.0.2" />
+		<PackageReference Include="Microsoft.Extensions.Hosting" Version="5.0.0" />
+	</ItemGroup>
+
+</Project>

@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="BuilderA.BuilderClasses.AbstractComputer">
+    <Position X="2.25" Y="1.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>BuilderClasses\AbstractComputer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BuilderA.BuilderClasses.BIOS" Collapsed="true">
+    <Position X="11.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BuilderClasses\BIOS.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BuilderA.BuilderClasses.Computer">
+    <Position X="2.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BuilderClasses\Computer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BuilderA.BuilderClasses.ComputerBuilder">
+    <Position X="5.5" Y="3" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAABAAAAIEAAAAAAAAAAAAAAAACAAIAAAAAAAg=</HashCode>
+      <FileName>BuilderClasses\ComputerBuilder.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BuilderA.BuilderClasses.GraphicCard" Collapsed="true">
+    <Position X="13.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BuilderClasses\GraphicCard.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BuilderA.BuilderClasses.HardDrive" Collapsed="true">
+    <Position X="12.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BuilderClasses\HardDrive.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="BuilderA.BuilderClasses.IComputerBuilder">
+    <Position X="6" Y="1" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAIAEAAAAAA=</HashCode>
+      <FileName>BuilderClasses\IComputerBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="BuilderA.BuilderClasses.IComputerComponent" Collapsed="true">
+    <Position X="11" Y="0.5" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BuilderClasses\IComputerComponent.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

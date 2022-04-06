@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="StrategyB.Context">
+    <Position X="6.75" Y="1.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAEAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Context.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StrategyB.ConcreteStrategyA" BaseTypeListCollapsed="true">
+    <Position X="5.25" Y="5.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConcreteStrategyA .cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StrategyB.ConcreteStrategyB" BaseTypeListCollapsed="true">
+    <Position X="8" Y="5.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConcreteStrategyB .cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StrategyB.AStrategy" Collapsed="true">
+    <Position X="7" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AStrategy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,15 @@
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\AdapterB\AdapterB\bin\Debug\net5.0\AdapterB.exe
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\AdapterB\AdapterB\bin\Debug\net5.0\AdapterB.deps.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\AdapterB\AdapterB\bin\Debug\net5.0\AdapterB.runtimeconfig.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\AdapterB\AdapterB\bin\Debug\net5.0\AdapterB.runtimeconfig.dev.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\AdapterB\AdapterB\bin\Debug\net5.0\AdapterB.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\AdapterB\AdapterB\bin\Debug\net5.0\ref\AdapterB.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\AdapterB\AdapterB\bin\Debug\net5.0\AdapterB.pdb
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\AdapterB\AdapterB\obj\Debug\net5.0\AdapterB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\AdapterB\AdapterB\obj\Debug\net5.0\AdapterB.AssemblyInfoInputs.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\AdapterB\AdapterB\obj\Debug\net5.0\AdapterB.AssemblyInfo.cs
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\AdapterB\AdapterB\obj\Debug\net5.0\AdapterB.csproj.CoreCompileInputs.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\AdapterB\AdapterB\obj\Debug\net5.0\AdapterB.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\AdapterB\AdapterB\obj\Debug\net5.0\ref\AdapterB.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\AdapterB\AdapterB\obj\Debug\net5.0\AdapterB.pdb
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\AdapterB\AdapterB\obj\Debug\net5.0\AdapterB.genruntimeconfig.cache

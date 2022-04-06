@@ -1,0 +1,16 @@
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\MediatorA\MediatorA\bin\Debug\net5.0\MediatorA.exe
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\MediatorA\MediatorA\bin\Debug\net5.0\MediatorA.deps.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\MediatorA\MediatorA\bin\Debug\net5.0\MediatorA.runtimeconfig.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\MediatorA\MediatorA\bin\Debug\net5.0\MediatorA.runtimeconfig.dev.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\MediatorA\MediatorA\bin\Debug\net5.0\MediatorA.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\MediatorA\MediatorA\bin\Debug\net5.0\ref\MediatorA.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\MediatorA\MediatorA\bin\Debug\net5.0\MediatorA.pdb
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\MediatorA\MediatorA\obj\Debug\net5.0\MediatorA.csprojAssemblyReference.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\MediatorA\MediatorA\obj\Debug\net5.0\MediatorA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\MediatorA\MediatorA\obj\Debug\net5.0\MediatorA.AssemblyInfoInputs.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\MediatorA\MediatorA\obj\Debug\net5.0\MediatorA.AssemblyInfo.cs
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\MediatorA\MediatorA\obj\Debug\net5.0\MediatorA.csproj.CoreCompileInputs.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\MediatorA\MediatorA\obj\Debug\net5.0\MediatorA.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\MediatorA\MediatorA\obj\Debug\net5.0\ref\MediatorA.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\MediatorA\MediatorA\obj\Debug\net5.0\MediatorA.pdb
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\MediatorA\MediatorA\obj\Debug\net5.0\MediatorA.genruntimeconfig.cache

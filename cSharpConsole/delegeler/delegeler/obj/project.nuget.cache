@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "GiyAx4Q5bx165Dt+R/lYu/4Jrxf0OJd9008ixz0akZ56J6ybW6EMobeMwcIVjC2mhyBfoSZJRemey+WK7z3D7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nyks.35\\source\\Repos\\cSharp-dersleri1\\cSharp dersleri\\cSharp-console-dersleri\\delegeler\\delegeler\\delegeler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nyks.35\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\nyks.35\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\nyks.35\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\nyks.35\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

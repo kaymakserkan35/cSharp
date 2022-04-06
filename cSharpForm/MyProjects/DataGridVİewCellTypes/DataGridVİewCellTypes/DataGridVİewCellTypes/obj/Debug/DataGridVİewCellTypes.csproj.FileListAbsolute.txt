@@ -1,0 +1,10 @@
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\DataGridVİewCellTypes\DataGridVİewCellTypes\DataGridVİewCellTypes\bin\Debug\DataGridVİewCellTypes.exe.config
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\DataGridVİewCellTypes\DataGridVİewCellTypes\DataGridVİewCellTypes\bin\Debug\DataGridVİewCellTypes.exe
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\DataGridVİewCellTypes\DataGridVİewCellTypes\DataGridVİewCellTypes\bin\Debug\DataGridVİewCellTypes.pdb
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\DataGridVİewCellTypes\DataGridVİewCellTypes\DataGridVİewCellTypes\obj\Debug\DataGridVİewCellTypes.csproj.AssemblyReference.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\DataGridVİewCellTypes\DataGridVİewCellTypes\DataGridVİewCellTypes\obj\Debug\DataGridVİewCellTypes.Properties.Resources.resources
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\DataGridVİewCellTypes\DataGridVİewCellTypes\DataGridVİewCellTypes\obj\Debug\DataGridVİewCellTypes.csproj.GenerateResource.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\DataGridVİewCellTypes\DataGridVİewCellTypes\DataGridVİewCellTypes\obj\Debug\DataGridVİewCellTypes.csproj.CoreCompileInputs.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\DataGridVİewCellTypes\DataGridVİewCellTypes\DataGridVİewCellTypes\obj\Debug\DataGridVİewCellTypes.exe
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\DataGridVİewCellTypes\DataGridVİewCellTypes\DataGridVİewCellTypes\obj\Debug\DataGridVİewCellTypes.pdb
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\DataGridVİewCellTypes\DataGridVİewCellTypes\DataGridVİewCellTypes\obj\Debug\DataGridVİewCellTypes.Form1.resources

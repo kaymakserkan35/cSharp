@@ -1,0 +1,16 @@
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\ProxyLazyCatching\ProxyLazyCatching\bin\Debug\net5.0\ProxyLazyCatching.exe
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\ProxyLazyCatching\ProxyLazyCatching\bin\Debug\net5.0\ProxyLazyCatching.deps.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\ProxyLazyCatching\ProxyLazyCatching\bin\Debug\net5.0\ProxyLazyCatching.runtimeconfig.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\ProxyLazyCatching\ProxyLazyCatching\bin\Debug\net5.0\ProxyLazyCatching.runtimeconfig.dev.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\ProxyLazyCatching\ProxyLazyCatching\bin\Debug\net5.0\ProxyLazyCatching.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\ProxyLazyCatching\ProxyLazyCatching\bin\Debug\net5.0\ref\ProxyLazyCatching.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\ProxyLazyCatching\ProxyLazyCatching\bin\Debug\net5.0\ProxyLazyCatching.pdb
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\ProxyLazyCatching\ProxyLazyCatching\obj\Debug\net5.0\ProxyLazyCatching.csproj.AssemblyReference.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\ProxyLazyCatching\ProxyLazyCatching\obj\Debug\net5.0\ProxyLazyCatching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\ProxyLazyCatching\ProxyLazyCatching\obj\Debug\net5.0\ProxyLazyCatching.AssemblyInfoInputs.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\ProxyLazyCatching\ProxyLazyCatching\obj\Debug\net5.0\ProxyLazyCatching.AssemblyInfo.cs
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\ProxyLazyCatching\ProxyLazyCatching\obj\Debug\net5.0\ProxyLazyCatching.csproj.CoreCompileInputs.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\ProxyLazyCatching\ProxyLazyCatching\obj\Debug\net5.0\ProxyLazyCatching.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\ProxyLazyCatching\ProxyLazyCatching\obj\Debug\net5.0\ref\ProxyLazyCatching.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\ProxyLazyCatching\ProxyLazyCatching\obj\Debug\net5.0\ProxyLazyCatching.pdb
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\ProxyLazyCatching\ProxyLazyCatching\obj\Debug\net5.0\ProxyLazyCatching.genruntimeconfig.cache

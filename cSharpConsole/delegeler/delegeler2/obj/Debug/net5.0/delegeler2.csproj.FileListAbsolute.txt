@@ -1,0 +1,16 @@
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\delegeler\delegeler2\bin\Debug\net5.0\delegeler2.exe
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\delegeler\delegeler2\bin\Debug\net5.0\delegeler2.deps.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\delegeler\delegeler2\bin\Debug\net5.0\delegeler2.runtimeconfig.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\delegeler\delegeler2\bin\Debug\net5.0\delegeler2.runtimeconfig.dev.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\delegeler\delegeler2\bin\Debug\net5.0\delegeler2.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\delegeler\delegeler2\bin\Debug\net5.0\ref\delegeler2.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\delegeler\delegeler2\bin\Debug\net5.0\delegeler2.pdb
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\delegeler\delegeler2\obj\Debug\net5.0\delegeler2.csprojAssemblyReference.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\delegeler\delegeler2\obj\Debug\net5.0\delegeler2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\delegeler\delegeler2\obj\Debug\net5.0\delegeler2.AssemblyInfoInputs.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\delegeler\delegeler2\obj\Debug\net5.0\delegeler2.AssemblyInfo.cs
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\delegeler\delegeler2\obj\Debug\net5.0\delegeler2.csproj.CoreCompileInputs.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\delegeler\delegeler2\obj\Debug\net5.0\delegeler2.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\delegeler\delegeler2\obj\Debug\net5.0\ref\delegeler2.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\delegeler\delegeler2\obj\Debug\net5.0\delegeler2.pdb
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\delegeler\delegeler2\obj\Debug\net5.0\delegeler2.genruntimeconfig.cache

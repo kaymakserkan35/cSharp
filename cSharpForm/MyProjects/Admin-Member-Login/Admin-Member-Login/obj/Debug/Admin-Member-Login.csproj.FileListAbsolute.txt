@@ -1,0 +1,10 @@
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\MyProjects\Admin-Member-Login\Admin-Member-Login\obj\Debug\Admin-Member-Login.csproj.AssemblyReference.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\MyProjects\Admin-Member-Login\Admin-Member-Login\obj\Debug\Admin_Member_Login.MainForm.resources
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\MyProjects\Admin-Member-Login\Admin-Member-Login\obj\Debug\Admin_Member_Login.Properties.Resources.resources
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\MyProjects\Admin-Member-Login\Admin-Member-Login\obj\Debug\Admin-Member-Login.csproj.GenerateResource.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\MyProjects\Admin-Member-Login\Admin-Member-Login\obj\Debug\Admin-Member-Login.csproj.CoreCompileInputs.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\MyProjects\Admin-Member-Login\Admin-Member-Login\bin\Debug\Admin_Member_Login.exe.config
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\MyProjects\Admin-Member-Login\Admin-Member-Login\bin\Debug\Admin_Member_Login.exe
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\MyProjects\Admin-Member-Login\Admin-Member-Login\bin\Debug\Admin_Member_Login.pdb
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\MyProjects\Admin-Member-Login\Admin-Member-Login\obj\Debug\Admin_Member_Login.exe
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\MyProjects\Admin-Member-Login\Admin-Member-Login\obj\Debug\Admin_Member_Login.pdb

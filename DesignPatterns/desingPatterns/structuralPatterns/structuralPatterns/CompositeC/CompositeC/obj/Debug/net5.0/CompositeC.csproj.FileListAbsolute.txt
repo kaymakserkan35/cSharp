@@ -1,0 +1,32 @@
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\CompositeC\CompositeC\bin\Debug\net5.0\CompositeC.exe
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\CompositeC\CompositeC\bin\Debug\net5.0\CompositeC.deps.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\CompositeC\CompositeC\bin\Debug\net5.0\CompositeC.runtimeconfig.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\CompositeC\CompositeC\bin\Debug\net5.0\CompositeC.runtimeconfig.dev.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\CompositeC\CompositeC\bin\Debug\net5.0\CompositeC.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\CompositeC\CompositeC\bin\Debug\net5.0\ref\CompositeC.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\CompositeC\CompositeC\bin\Debug\net5.0\CompositeC.pdb
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\CompositeC\CompositeC\obj\Debug\net5.0\CompositeC.csprojAssemblyReference.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\CompositeC\CompositeC\obj\Debug\net5.0\CompositeC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\CompositeC\CompositeC\obj\Debug\net5.0\CompositeC.AssemblyInfoInputs.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\CompositeC\CompositeC\obj\Debug\net5.0\CompositeC.AssemblyInfo.cs
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\CompositeC\CompositeC\obj\Debug\net5.0\CompositeC.csproj.CoreCompileInputs.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\CompositeC\CompositeC\obj\Debug\net5.0\CompositeC.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\CompositeC\CompositeC\obj\Debug\net5.0\ref\CompositeC.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\CompositeC\CompositeC\obj\Debug\net5.0\CompositeC.pdb
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\CompositeC\CompositeC\obj\Debug\net5.0\CompositeC.genruntimeconfig.cache
+C:\Users\nyks.35\source\Repos\cSharp-dersleri1\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\CompositeC\CompositeC\bin\Debug\net5.0\CompositeC.exe
+C:\Users\nyks.35\source\Repos\cSharp-dersleri1\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\CompositeC\CompositeC\bin\Debug\net5.0\CompositeC.deps.json
+C:\Users\nyks.35\source\Repos\cSharp-dersleri1\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\CompositeC\CompositeC\bin\Debug\net5.0\CompositeC.runtimeconfig.json
+C:\Users\nyks.35\source\Repos\cSharp-dersleri1\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\CompositeC\CompositeC\bin\Debug\net5.0\CompositeC.runtimeconfig.dev.json
+C:\Users\nyks.35\source\Repos\cSharp-dersleri1\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\CompositeC\CompositeC\bin\Debug\net5.0\CompositeC.dll
+C:\Users\nyks.35\source\Repos\cSharp-dersleri1\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\CompositeC\CompositeC\bin\Debug\net5.0\ref\CompositeC.dll
+C:\Users\nyks.35\source\Repos\cSharp-dersleri1\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\CompositeC\CompositeC\bin\Debug\net5.0\CompositeC.pdb
+C:\Users\nyks.35\source\Repos\cSharp-dersleri1\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\CompositeC\CompositeC\obj\Debug\net5.0\CompositeC.csprojAssemblyReference.cache
+C:\Users\nyks.35\source\Repos\cSharp-dersleri1\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\CompositeC\CompositeC\obj\Debug\net5.0\CompositeC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyks.35\source\Repos\cSharp-dersleri1\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\CompositeC\CompositeC\obj\Debug\net5.0\CompositeC.AssemblyInfoInputs.cache
+C:\Users\nyks.35\source\Repos\cSharp-dersleri1\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\CompositeC\CompositeC\obj\Debug\net5.0\CompositeC.AssemblyInfo.cs
+C:\Users\nyks.35\source\Repos\cSharp-dersleri1\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\CompositeC\CompositeC\obj\Debug\net5.0\CompositeC.csproj.CoreCompileInputs.cache
+C:\Users\nyks.35\source\Repos\cSharp-dersleri1\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\CompositeC\CompositeC\obj\Debug\net5.0\CompositeC.dll
+C:\Users\nyks.35\source\Repos\cSharp-dersleri1\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\CompositeC\CompositeC\obj\Debug\net5.0\ref\CompositeC.dll
+C:\Users\nyks.35\source\Repos\cSharp-dersleri1\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\CompositeC\CompositeC\obj\Debug\net5.0\CompositeC.pdb
+C:\Users\nyks.35\source\Repos\cSharp-dersleri1\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\CompositeC\CompositeC\obj\Debug\net5.0\CompositeC.genruntimeconfig.cache

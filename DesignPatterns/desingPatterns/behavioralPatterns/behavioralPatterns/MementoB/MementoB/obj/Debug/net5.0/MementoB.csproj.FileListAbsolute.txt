@@ -1,0 +1,16 @@
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\MementoB\MementoB\bin\Debug\net5.0\MementoB.exe
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\MementoB\MementoB\bin\Debug\net5.0\MementoB.deps.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\MementoB\MementoB\bin\Debug\net5.0\MementoB.runtimeconfig.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\MementoB\MementoB\bin\Debug\net5.0\MementoB.runtimeconfig.dev.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\MementoB\MementoB\bin\Debug\net5.0\MementoB.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\MementoB\MementoB\bin\Debug\net5.0\ref\MementoB.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\MementoB\MementoB\bin\Debug\net5.0\MementoB.pdb
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\MementoB\MementoB\obj\Debug\net5.0\MementoB.csproj.AssemblyReference.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\MementoB\MementoB\obj\Debug\net5.0\MementoB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\MementoB\MementoB\obj\Debug\net5.0\MementoB.AssemblyInfoInputs.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\MementoB\MementoB\obj\Debug\net5.0\MementoB.AssemblyInfo.cs
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\MementoB\MementoB\obj\Debug\net5.0\MementoB.csproj.CoreCompileInputs.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\MementoB\MementoB\obj\Debug\net5.0\MementoB.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\MementoB\MementoB\obj\Debug\net5.0\ref\MementoB.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\MementoB\MementoB\obj\Debug\net5.0\MementoB.pdb
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\MementoB\MementoB\obj\Debug\net5.0\MementoB.genruntimeconfig.cache

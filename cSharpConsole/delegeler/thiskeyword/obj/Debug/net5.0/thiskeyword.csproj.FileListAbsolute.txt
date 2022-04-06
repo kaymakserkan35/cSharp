@@ -1,0 +1,16 @@
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\delegeler\thiskeyword\bin\Debug\net5.0\thiskeyword.exe
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\delegeler\thiskeyword\bin\Debug\net5.0\thiskeyword.deps.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\delegeler\thiskeyword\bin\Debug\net5.0\thiskeyword.runtimeconfig.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\delegeler\thiskeyword\bin\Debug\net5.0\thiskeyword.runtimeconfig.dev.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\delegeler\thiskeyword\bin\Debug\net5.0\thiskeyword.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\delegeler\thiskeyword\bin\Debug\net5.0\ref\thiskeyword.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\delegeler\thiskeyword\bin\Debug\net5.0\thiskeyword.pdb
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\delegeler\thiskeyword\obj\Debug\net5.0\thiskeyword.csprojAssemblyReference.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\delegeler\thiskeyword\obj\Debug\net5.0\thiskeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\delegeler\thiskeyword\obj\Debug\net5.0\thiskeyword.AssemblyInfoInputs.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\delegeler\thiskeyword\obj\Debug\net5.0\thiskeyword.AssemblyInfo.cs
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\delegeler\thiskeyword\obj\Debug\net5.0\thiskeyword.csproj.CoreCompileInputs.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\delegeler\thiskeyword\obj\Debug\net5.0\thiskeyword.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\delegeler\thiskeyword\obj\Debug\net5.0\ref\thiskeyword.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\delegeler\thiskeyword\obj\Debug\net5.0\thiskeyword.pdb
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\delegeler\thiskeyword\obj\Debug\net5.0\thiskeyword.genruntimeconfig.cache

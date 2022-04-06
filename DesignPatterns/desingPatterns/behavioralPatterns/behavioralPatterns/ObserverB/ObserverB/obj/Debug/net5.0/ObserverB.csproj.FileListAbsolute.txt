@@ -1,0 +1,16 @@
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\ObserverB\ObserverB\bin\Debug\net5.0\ObserverB.exe
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\ObserverB\ObserverB\bin\Debug\net5.0\ObserverB.deps.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\ObserverB\ObserverB\bin\Debug\net5.0\ObserverB.runtimeconfig.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\ObserverB\ObserverB\bin\Debug\net5.0\ObserverB.runtimeconfig.dev.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\ObserverB\ObserverB\bin\Debug\net5.0\ObserverB.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\ObserverB\ObserverB\bin\Debug\net5.0\ref\ObserverB.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\ObserverB\ObserverB\bin\Debug\net5.0\ObserverB.pdb
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\ObserverB\ObserverB\obj\Debug\net5.0\ObserverB.csproj.AssemblyReference.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\ObserverB\ObserverB\obj\Debug\net5.0\ObserverB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\ObserverB\ObserverB\obj\Debug\net5.0\ObserverB.AssemblyInfoInputs.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\ObserverB\ObserverB\obj\Debug\net5.0\ObserverB.AssemblyInfo.cs
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\ObserverB\ObserverB\obj\Debug\net5.0\ObserverB.csproj.CoreCompileInputs.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\ObserverB\ObserverB\obj\Debug\net5.0\ObserverB.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\ObserverB\ObserverB\obj\Debug\net5.0\ref\ObserverB.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\ObserverB\ObserverB\obj\Debug\net5.0\ObserverB.pdb
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\ObserverB\ObserverB\obj\Debug\net5.0\ObserverB.genruntimeconfig.cache

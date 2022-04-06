@@ -1,0 +1,67 @@
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\linq çalışmaları\bin\Debug\net5.0\linq çalışmaları.exe
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\linq çalışmaları\bin\Debug\net5.0\linq çalışmaları.deps.json
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\linq çalışmaları\bin\Debug\net5.0\linq çalışmaları.runtimeconfig.json
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\linq çalışmaları\bin\Debug\net5.0\linq çalışmaları.runtimeconfig.dev.json
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\linq çalışmaları\bin\Debug\net5.0\linq çalışmaları.dll
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\linq çalışmaları\bin\Debug\net5.0\ref\linq çalışmaları.dll
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\linq çalışmaları\bin\Debug\net5.0\linq çalışmaları.pdb
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\linq çalışmaları\obj\Debug\net5.0\linq çalışmaları.csprojAssemblyReference.cache
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\linq çalışmaları\obj\Debug\net5.0\linq çalışmaları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\linq çalışmaları\obj\Debug\net5.0\linq çalışmaları.AssemblyInfoInputs.cache
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\linq çalışmaları\obj\Debug\net5.0\linq çalışmaları.AssemblyInfo.cs
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\linq çalışmaları\obj\Debug\net5.0\linq çalışmaları.csproj.CoreCompileInputs.cache
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\linq çalışmaları\obj\Debug\net5.0\linq çalışmaları.dll
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\linq çalışmaları\obj\Debug\net5.0\ref\linq çalışmaları.dll
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\linq çalışmaları\obj\Debug\net5.0\linq çalışmaları.pdb
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\linq çalışmaları\obj\Debug\net5.0\linq çalışmaları.genruntimeconfig.cache
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\linq çalışmaları\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\linq çalışmaları\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\linq çalışmaları\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\linq çalışmaları\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\linq çalışmaları\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\linq çalışmaları\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\linq çalışmaları\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\linq çalışmaları\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\linq çalışmaları\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\linq çalışmaları\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\linq çalışmaları\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\linq çalışmaları\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\linq çalışmaları\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\linq çalışmaları\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\linq çalışmaları\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\linq çalışmaları\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\linq çalışmaları\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\linq çalışmaları\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\linq çalışmaları\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\linq çalışmaları\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\linq çalışmaları\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\linq çalışmaları\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\linq çalışmaları\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\linq çalışmaları\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\linq çalışmaları\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\linq çalışmaları\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\linq çalışmaları\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\linq çalışmaları\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\linq çalışmaları\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\linq çalışmaları\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\linq çalışmaları\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\linq çalışmaları\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\linq çalışmaları\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\linq çalışmaları\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\linq çalışmaları\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\linq çalışmaları\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\linq çalışmaları\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\linq çalışmaları\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\linq çalışmaları\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\linq çalışmaları\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\linq çalışmaları\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\linq çalışmaları\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\linq çalışmaları\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\linq çalışmaları\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\linq çalışmaları\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\linq çalışmaları\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\linq çalışmaları\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\linq çalışmaları\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\linq çalışmaları\obj\Debug\net5.0\linq çalışmaları.csproj.CopyComplete
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\linq çalışmaları\bin\Debug\net5.0\Humanizer.dll
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\linq çalışmaları\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll

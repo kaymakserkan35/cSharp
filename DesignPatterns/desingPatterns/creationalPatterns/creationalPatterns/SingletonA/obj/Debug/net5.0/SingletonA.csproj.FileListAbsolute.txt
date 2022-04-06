@@ -1,0 +1,15 @@
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YaratımsalPatterns\YaratımsalPatterns\SingletonA\bin\Debug\net5.0\SingletonA.exe
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YaratımsalPatterns\YaratımsalPatterns\SingletonA\bin\Debug\net5.0\SingletonA.deps.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YaratımsalPatterns\YaratımsalPatterns\SingletonA\bin\Debug\net5.0\SingletonA.runtimeconfig.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YaratımsalPatterns\YaratımsalPatterns\SingletonA\bin\Debug\net5.0\SingletonA.runtimeconfig.dev.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YaratımsalPatterns\YaratımsalPatterns\SingletonA\bin\Debug\net5.0\SingletonA.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YaratımsalPatterns\YaratımsalPatterns\SingletonA\bin\Debug\net5.0\ref\SingletonA.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YaratımsalPatterns\YaratımsalPatterns\SingletonA\bin\Debug\net5.0\SingletonA.pdb
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YaratımsalPatterns\YaratımsalPatterns\SingletonA\obj\Debug\net5.0\SingletonA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YaratımsalPatterns\YaratımsalPatterns\SingletonA\obj\Debug\net5.0\SingletonA.AssemblyInfoInputs.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YaratımsalPatterns\YaratımsalPatterns\SingletonA\obj\Debug\net5.0\SingletonA.AssemblyInfo.cs
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YaratımsalPatterns\YaratımsalPatterns\SingletonA\obj\Debug\net5.0\SingletonA.csproj.CoreCompileInputs.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YaratımsalPatterns\YaratımsalPatterns\SingletonA\obj\Debug\net5.0\SingletonA.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YaratımsalPatterns\YaratımsalPatterns\SingletonA\obj\Debug\net5.0\ref\SingletonA.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YaratımsalPatterns\YaratımsalPatterns\SingletonA\obj\Debug\net5.0\SingletonA.pdb
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YaratımsalPatterns\YaratımsalPatterns\SingletonA\obj\Debug\net5.0\SingletonA.genruntimeconfig.cache

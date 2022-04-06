@@ -1,0 +1,16 @@
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp-dersleri\boxing-unboxing\boxing-unboxing\boxing-unboxing\bin\Debug\net5.0\boxing-unboxing.exe
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp-dersleri\boxing-unboxing\boxing-unboxing\boxing-unboxing\bin\Debug\net5.0\boxing-unboxing.deps.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp-dersleri\boxing-unboxing\boxing-unboxing\boxing-unboxing\bin\Debug\net5.0\boxing-unboxing.runtimeconfig.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp-dersleri\boxing-unboxing\boxing-unboxing\boxing-unboxing\bin\Debug\net5.0\boxing-unboxing.runtimeconfig.dev.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp-dersleri\boxing-unboxing\boxing-unboxing\boxing-unboxing\bin\Debug\net5.0\boxing-unboxing.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp-dersleri\boxing-unboxing\boxing-unboxing\boxing-unboxing\bin\Debug\net5.0\ref\boxing-unboxing.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp-dersleri\boxing-unboxing\boxing-unboxing\boxing-unboxing\bin\Debug\net5.0\boxing-unboxing.pdb
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp-dersleri\boxing-unboxing\boxing-unboxing\boxing-unboxing\obj\Debug\net5.0\boxing-unboxing.csprojAssemblyReference.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp-dersleri\boxing-unboxing\boxing-unboxing\boxing-unboxing\obj\Debug\net5.0\boxing-unboxing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp-dersleri\boxing-unboxing\boxing-unboxing\boxing-unboxing\obj\Debug\net5.0\boxing-unboxing.AssemblyInfoInputs.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp-dersleri\boxing-unboxing\boxing-unboxing\boxing-unboxing\obj\Debug\net5.0\boxing-unboxing.AssemblyInfo.cs
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp-dersleri\boxing-unboxing\boxing-unboxing\boxing-unboxing\obj\Debug\net5.0\boxing-unboxing.csproj.CoreCompileInputs.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp-dersleri\boxing-unboxing\boxing-unboxing\boxing-unboxing\obj\Debug\net5.0\boxing-unboxing.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp-dersleri\boxing-unboxing\boxing-unboxing\boxing-unboxing\obj\Debug\net5.0\ref\boxing-unboxing.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp-dersleri\boxing-unboxing\boxing-unboxing\boxing-unboxing\obj\Debug\net5.0\boxing-unboxing.pdb
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp-dersleri\boxing-unboxing\boxing-unboxing\boxing-unboxing\obj\Debug\net5.0\boxing-unboxing.genruntimeconfig.cache

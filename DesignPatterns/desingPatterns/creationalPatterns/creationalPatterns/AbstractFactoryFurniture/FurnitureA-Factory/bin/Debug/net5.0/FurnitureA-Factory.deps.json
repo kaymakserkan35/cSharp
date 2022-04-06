@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FurnitureA-Factory/1.0.0": {
+        "runtime": {
+          "FurnitureA-Factory.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FurnitureA-Factory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

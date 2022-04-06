@@ -1,0 +1,16 @@
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\ChainResponseB\ChainResponseB\bin\Debug\net5.0\ChainResponseB.exe
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\ChainResponseB\ChainResponseB\bin\Debug\net5.0\ChainResponseB.deps.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\ChainResponseB\ChainResponseB\bin\Debug\net5.0\ChainResponseB.runtimeconfig.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\ChainResponseB\ChainResponseB\bin\Debug\net5.0\ChainResponseB.runtimeconfig.dev.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\ChainResponseB\ChainResponseB\bin\Debug\net5.0\ChainResponseB.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\ChainResponseB\ChainResponseB\bin\Debug\net5.0\ref\ChainResponseB.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\ChainResponseB\ChainResponseB\bin\Debug\net5.0\ChainResponseB.pdb
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\ChainResponseB\ChainResponseB\obj\Debug\net5.0\ChainResponseB.csproj.AssemblyReference.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\ChainResponseB\ChainResponseB\obj\Debug\net5.0\ChainResponseB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\ChainResponseB\ChainResponseB\obj\Debug\net5.0\ChainResponseB.AssemblyInfoInputs.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\ChainResponseB\ChainResponseB\obj\Debug\net5.0\ChainResponseB.AssemblyInfo.cs
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\ChainResponseB\ChainResponseB\obj\Debug\net5.0\ChainResponseB.csproj.CoreCompileInputs.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\ChainResponseB\ChainResponseB\obj\Debug\net5.0\ChainResponseB.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\ChainResponseB\ChainResponseB\obj\Debug\net5.0\ref\ChainResponseB.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\ChainResponseB\ChainResponseB\obj\Debug\net5.0\ChainResponseB.pdb
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\DavranissalPatterns\DavranissalPatterns\ChainResponseB\ChainResponseB\obj\Debug\net5.0\ChainResponseB.genruntimeconfig.cache

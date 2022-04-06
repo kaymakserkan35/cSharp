@@ -1,0 +1,16 @@
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YaratımsalPatterns\YaratımsalPatterns\BuilderA\BuilderA\bin\Debug\net5.0\BuilderA.exe
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YaratımsalPatterns\YaratımsalPatterns\BuilderA\BuilderA\bin\Debug\net5.0\BuilderA.deps.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YaratımsalPatterns\YaratımsalPatterns\BuilderA\BuilderA\bin\Debug\net5.0\BuilderA.runtimeconfig.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YaratımsalPatterns\YaratımsalPatterns\BuilderA\BuilderA\bin\Debug\net5.0\BuilderA.runtimeconfig.dev.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YaratımsalPatterns\YaratımsalPatterns\BuilderA\BuilderA\bin\Debug\net5.0\BuilderA.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YaratımsalPatterns\YaratımsalPatterns\BuilderA\BuilderA\bin\Debug\net5.0\ref\BuilderA.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YaratımsalPatterns\YaratımsalPatterns\BuilderA\BuilderA\bin\Debug\net5.0\BuilderA.pdb
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YaratımsalPatterns\YaratımsalPatterns\BuilderA\BuilderA\obj\Debug\net5.0\BuilderA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YaratımsalPatterns\YaratımsalPatterns\BuilderA\BuilderA\obj\Debug\net5.0\BuilderA.AssemblyInfoInputs.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YaratımsalPatterns\YaratımsalPatterns\BuilderA\BuilderA\obj\Debug\net5.0\BuilderA.AssemblyInfo.cs
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YaratımsalPatterns\YaratımsalPatterns\BuilderA\BuilderA\obj\Debug\net5.0\BuilderA.csproj.CoreCompileInputs.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YaratımsalPatterns\YaratımsalPatterns\BuilderA\BuilderA\obj\Debug\net5.0\BuilderA.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YaratımsalPatterns\YaratımsalPatterns\BuilderA\BuilderA\obj\Debug\net5.0\ref\BuilderA.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YaratımsalPatterns\YaratımsalPatterns\BuilderA\BuilderA\obj\Debug\net5.0\BuilderA.pdb
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YaratımsalPatterns\YaratımsalPatterns\BuilderA\BuilderA\obj\Debug\net5.0\BuilderA.genruntimeconfig.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YaratımsalPatterns\YaratımsalPatterns\BuilderA\BuilderA\obj\Debug\net5.0\BuilderA.csprojAssemblyReference.cache

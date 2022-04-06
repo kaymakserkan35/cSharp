@@ -1,0 +1,15 @@
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\ProjectTemplate\ProjectTemplate\ProjectTemplate.DATA\bin\Debug\net5.0\ProjectTemplate.DATA.deps.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\ProjectTemplate\ProjectTemplate\ProjectTemplate.DATA\bin\Debug\net5.0\ProjectTemplate.DATA.runtimeconfig.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\ProjectTemplate\ProjectTemplate\ProjectTemplate.DATA\bin\Debug\net5.0\ProjectTemplate.DATA.runtimeconfig.dev.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\ProjectTemplate\ProjectTemplate\ProjectTemplate.DATA\bin\Debug\net5.0\ProjectTemplate.DATA.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\ProjectTemplate\ProjectTemplate\ProjectTemplate.DATA\bin\Debug\net5.0\ref\ProjectTemplate.DATA.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\ProjectTemplate\ProjectTemplate\ProjectTemplate.DATA\bin\Debug\net5.0\ProjectTemplate.DATA.pdb
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\ProjectTemplate\ProjectTemplate\ProjectTemplate.DATA\obj\Debug\net5.0\ProjectTemplate.DATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\ProjectTemplate\ProjectTemplate\ProjectTemplate.DATA\obj\Debug\net5.0\ProjectTemplate.DATA.AssemblyInfoInputs.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\ProjectTemplate\ProjectTemplate\ProjectTemplate.DATA\obj\Debug\net5.0\ProjectTemplate.DATA.AssemblyInfo.cs
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\ProjectTemplate\ProjectTemplate\ProjectTemplate.DATA\obj\Debug\net5.0\ProjectTemplate.DATA.csproj.CoreCompileInputs.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\ProjectTemplate\ProjectTemplate\ProjectTemplate.DATA\obj\Debug\net5.0\ProjectTemplate.DATA.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\ProjectTemplate\ProjectTemplate\ProjectTemplate.DATA\obj\Debug\net5.0\ref\ProjectTemplate.DATA.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\ProjectTemplate\ProjectTemplate\ProjectTemplate.DATA\obj\Debug\net5.0\ProjectTemplate.DATA.pdb
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\ProjectTemplate\ProjectTemplate\ProjectTemplate.DATA\obj\Debug\net5.0\ProjectTemplate.DATA.genruntimeconfig.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\ProjectTemplate\ProjectTemplate\ProjectTemplate.DATA\obj\Debug\net5.0\ProjectTemplate.DATA.csproj.AssemblyReference.cache

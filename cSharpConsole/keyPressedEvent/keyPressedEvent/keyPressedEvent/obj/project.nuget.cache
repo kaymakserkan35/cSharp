@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "eAQ/Sz30wf4k6UuKEhgOpvID0Ya213+bHdjKilJ0NaGI9AiFz00s8QyVbh3+p10lXPOiaRkg1aL59ANWFwYhBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nyks.35\\source\\Repos\\cSharp-dersleri1\\cSharp dersleri\\cSharp-console-dersleri\\keyPressedEvent\\keyPressedEvent\\keyPressedEvent\\keyPressedEvent.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nyks.35\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\nyks.35\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\nyks.35\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

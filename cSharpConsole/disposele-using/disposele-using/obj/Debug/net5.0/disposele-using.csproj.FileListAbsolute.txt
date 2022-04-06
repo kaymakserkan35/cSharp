@@ -1,0 +1,16 @@
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\disposele-using\disposele-using\obj\Debug\net5.0\disposele-using.csprojAssemblyReference.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\disposele-using\disposele-using\obj\Debug\net5.0\disposele-using.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\disposele-using\disposele-using\obj\Debug\net5.0\disposele-using.AssemblyInfoInputs.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\disposele-using\disposele-using\obj\Debug\net5.0\disposele-using.AssemblyInfo.cs
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\disposele-using\disposele-using\obj\Debug\net5.0\disposele-using.csproj.CoreCompileInputs.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\disposele-using\disposele-using\bin\Debug\net5.0\disposele-using.exe
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\disposele-using\disposele-using\bin\Debug\net5.0\disposele-using.deps.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\disposele-using\disposele-using\bin\Debug\net5.0\disposele-using.runtimeconfig.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\disposele-using\disposele-using\bin\Debug\net5.0\disposele-using.runtimeconfig.dev.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\disposele-using\disposele-using\bin\Debug\net5.0\disposele-using.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\disposele-using\disposele-using\bin\Debug\net5.0\ref\disposele-using.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\disposele-using\disposele-using\bin\Debug\net5.0\disposele-using.pdb
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\disposele-using\disposele-using\obj\Debug\net5.0\disposele-using.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\disposele-using\disposele-using\obj\Debug\net5.0\ref\disposele-using.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\disposele-using\disposele-using\obj\Debug\net5.0\disposele-using.pdb
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\disposele-using\disposele-using\obj\Debug\net5.0\disposele-using.genruntimeconfig.cache

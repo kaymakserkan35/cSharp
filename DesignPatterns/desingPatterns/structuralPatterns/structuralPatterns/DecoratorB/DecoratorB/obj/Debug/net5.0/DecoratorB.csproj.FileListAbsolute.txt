@@ -1,0 +1,32 @@
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\DecoratorB\DecoratorB\bin\Debug\net5.0\DecoratorB.exe
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\DecoratorB\DecoratorB\bin\Debug\net5.0\DecoratorB.deps.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\DecoratorB\DecoratorB\bin\Debug\net5.0\DecoratorB.runtimeconfig.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\DecoratorB\DecoratorB\bin\Debug\net5.0\DecoratorB.runtimeconfig.dev.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\DecoratorB\DecoratorB\bin\Debug\net5.0\DecoratorB.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\DecoratorB\DecoratorB\bin\Debug\net5.0\ref\DecoratorB.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\DecoratorB\DecoratorB\bin\Debug\net5.0\DecoratorB.pdb
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\DecoratorB\DecoratorB\obj\Debug\net5.0\DecoratorB.csprojAssemblyReference.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\DecoratorB\DecoratorB\obj\Debug\net5.0\DecoratorB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\DecoratorB\DecoratorB\obj\Debug\net5.0\DecoratorB.AssemblyInfoInputs.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\DecoratorB\DecoratorB\obj\Debug\net5.0\DecoratorB.AssemblyInfo.cs
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\DecoratorB\DecoratorB\obj\Debug\net5.0\DecoratorB.csproj.CoreCompileInputs.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\DecoratorB\DecoratorB\obj\Debug\net5.0\DecoratorB.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\DecoratorB\DecoratorB\obj\Debug\net5.0\ref\DecoratorB.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\DecoratorB\DecoratorB\obj\Debug\net5.0\DecoratorB.pdb
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\DecoratorB\DecoratorB\obj\Debug\net5.0\DecoratorB.genruntimeconfig.cache
+C:\Users\nyks.35\source\Repos\cSharp-dersleri1\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\DecoratorB\DecoratorB\bin\Debug\net5.0\DecoratorB.exe
+C:\Users\nyks.35\source\Repos\cSharp-dersleri1\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\DecoratorB\DecoratorB\bin\Debug\net5.0\DecoratorB.deps.json
+C:\Users\nyks.35\source\Repos\cSharp-dersleri1\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\DecoratorB\DecoratorB\bin\Debug\net5.0\DecoratorB.runtimeconfig.json
+C:\Users\nyks.35\source\Repos\cSharp-dersleri1\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\DecoratorB\DecoratorB\bin\Debug\net5.0\DecoratorB.runtimeconfig.dev.json
+C:\Users\nyks.35\source\Repos\cSharp-dersleri1\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\DecoratorB\DecoratorB\bin\Debug\net5.0\DecoratorB.dll
+C:\Users\nyks.35\source\Repos\cSharp-dersleri1\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\DecoratorB\DecoratorB\bin\Debug\net5.0\ref\DecoratorB.dll
+C:\Users\nyks.35\source\Repos\cSharp-dersleri1\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\DecoratorB\DecoratorB\bin\Debug\net5.0\DecoratorB.pdb
+C:\Users\nyks.35\source\Repos\cSharp-dersleri1\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\DecoratorB\DecoratorB\obj\Debug\net5.0\DecoratorB.csprojAssemblyReference.cache
+C:\Users\nyks.35\source\Repos\cSharp-dersleri1\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\DecoratorB\DecoratorB\obj\Debug\net5.0\DecoratorB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyks.35\source\Repos\cSharp-dersleri1\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\DecoratorB\DecoratorB\obj\Debug\net5.0\DecoratorB.AssemblyInfoInputs.cache
+C:\Users\nyks.35\source\Repos\cSharp-dersleri1\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\DecoratorB\DecoratorB\obj\Debug\net5.0\DecoratorB.AssemblyInfo.cs
+C:\Users\nyks.35\source\Repos\cSharp-dersleri1\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\DecoratorB\DecoratorB\obj\Debug\net5.0\DecoratorB.csproj.CoreCompileInputs.cache
+C:\Users\nyks.35\source\Repos\cSharp-dersleri1\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\DecoratorB\DecoratorB\obj\Debug\net5.0\DecoratorB.dll
+C:\Users\nyks.35\source\Repos\cSharp-dersleri1\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\DecoratorB\DecoratorB\obj\Debug\net5.0\ref\DecoratorB.dll
+C:\Users\nyks.35\source\Repos\cSharp-dersleri1\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\DecoratorB\DecoratorB\obj\Debug\net5.0\DecoratorB.pdb
+C:\Users\nyks.35\source\Repos\cSharp-dersleri1\cSharp dersleri\DesignPatternsDersleri\YapısalPatterns\YapısalPatterns\DecoratorB\DecoratorB\obj\Debug\net5.0\DecoratorB.genruntimeconfig.cache

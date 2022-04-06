@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ChainResponseC/1.0.0": {
+        "runtime": {
+          "ChainResponseC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ChainResponseC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

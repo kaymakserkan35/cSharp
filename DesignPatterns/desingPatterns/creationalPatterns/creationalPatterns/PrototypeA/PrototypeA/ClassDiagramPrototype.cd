@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="PrototypeA.PrototypeSimple.APrototype">
+    <Position X="6.75" Y="2.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAABg=</HashCode>
+      <FileName>PrototypeSimple\APrototype.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PrototypeA.PrototypeSimple.ConcretePrototype">
+    <Position X="7.25" Y="5.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>PrototypeSimple\ConcretePrototype.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrototypeA.PrototypeSimple.PrototypeDetails">
+    <Position X="10.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PrototypeSimple\PrototypeDetails.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrototypeA.Client" Collapsed="true">
+    <Position X="4.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Client.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

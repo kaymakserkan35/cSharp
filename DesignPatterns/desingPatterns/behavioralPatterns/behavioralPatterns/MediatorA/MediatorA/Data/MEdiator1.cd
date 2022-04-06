@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="MediatorA.Data.AComponent">
+    <Position X="5.5" Y="1" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\AComponent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MediatorA.Data.Button">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAABAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Data\Button.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MediatorA.Data.CheckBox">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAQAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\CheckBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MediatorA.Data.ConcreteMediator">
+    <Position X="5.25" Y="5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAAAAAABAAAABAAAgAAA=</HashCode>
+      <FileName>Data\ConcreteMediator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="MediatorA.Data.IMediator">
+    <Position X="5.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\IMediator.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="FurnitureA_Factory.Classes.AbstractFurniture">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\AbstractFurniture.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FurnitureA_Factory.Classes.AChair">
+    <Position X="3.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\AChair.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FurnitureA_Factory.Classes.ASofa">
+    <Position X="7" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\ASofa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FurnitureA_Factory.Classes.ACoffeeTable">
+    <Position X="5.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\ACoffeeTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FurnitureA_Factory.Classes.VictorianChair">
+    <Position X="3.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\VictorianChair.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FurnitureA_Factory.Classes.ModernSofa">
+    <Position X="7" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\ModernSofa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FurnitureA_Factory.Classes.ModernCoffeeTable">
+    <Position X="5" Y="5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\ModernCoffeeTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FurnitureA_Factory.Classes.ModernChair">
+    <Position X="3.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\ModernChair.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FurnitureA_Factory.Classes.VictorianCoffeeTable">
+    <Position X="5.25" Y="2" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\VictorianCoffeeTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FurnitureA_Factory.Classes.VictorianSofa">
+    <Position X="7.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\VictorianSofa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FurnitureA_Factory.Classes.AbstractFurnitureFactory">
+    <Position X="11" Y="3" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAgABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\AbstractFurnitureFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FurnitureA_Factory.Classes.VictorianFurnitureFactory">
+    <Position X="11" Y="1" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAgABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\VictorianFurnitureFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FurnitureA_Factory.Classes.ModernFurnitureFactory">
+    <Position X="11" Y="4.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAgABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\ModernFurnitureFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

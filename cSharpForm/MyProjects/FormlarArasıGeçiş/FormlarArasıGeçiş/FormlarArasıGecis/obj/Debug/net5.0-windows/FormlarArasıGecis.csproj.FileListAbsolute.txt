@@ -1,0 +1,38 @@
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp-formdersleri\FormlarArasıGeçiş\FormlarArasıGeçiş\FormlarArasıGecis\bin\Debug\net5.0-windows\FormlarArasıGecis.exe
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp-formdersleri\FormlarArasıGeçiş\FormlarArasıGeçiş\FormlarArasıGecis\bin\Debug\net5.0-windows\FormlarArasıGecis.deps.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp-formdersleri\FormlarArasıGeçiş\FormlarArasıGeçiş\FormlarArasıGecis\bin\Debug\net5.0-windows\FormlarArasıGecis.runtimeconfig.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp-formdersleri\FormlarArasıGeçiş\FormlarArasıGeçiş\FormlarArasıGecis\bin\Debug\net5.0-windows\FormlarArasıGecis.runtimeconfig.dev.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp-formdersleri\FormlarArasıGeçiş\FormlarArasıGeçiş\FormlarArasıGecis\bin\Debug\net5.0-windows\FormlarArasıGecis.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp-formdersleri\FormlarArasıGeçiş\FormlarArasıGeçiş\FormlarArasıGecis\bin\Debug\net5.0-windows\ref\FormlarArasıGecis.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp-formdersleri\FormlarArasıGeçiş\FormlarArasıGeçiş\FormlarArasıGecis\bin\Debug\net5.0-windows\FormlarArasıGecis.pdb
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp-formdersleri\FormlarArasıGeçiş\FormlarArasıGeçiş\FormlarArasıGecis\obj\Debug\net5.0-windows\FormlarArasıGecis.csprojAssemblyReference.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp-formdersleri\FormlarArasıGeçiş\FormlarArasıGeçiş\FormlarArasıGecis\obj\Debug\net5.0-windows\FormlarArasıGecis.MyForm1.resources
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp-formdersleri\FormlarArasıGeçiş\FormlarArasıGeçiş\FormlarArasıGecis\obj\Debug\net5.0-windows\FormlarArasıGecis.MyForm2.resources
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp-formdersleri\FormlarArasıGeçiş\FormlarArasıGeçiş\FormlarArasıGecis\obj\Debug\net5.0-windows\FormlarArasıGecis.csproj.GenerateResource.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp-formdersleri\FormlarArasıGeçiş\FormlarArasıGeçiş\FormlarArasıGecis\obj\Debug\net5.0-windows\FormlarArasıGecis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp-formdersleri\FormlarArasıGeçiş\FormlarArasıGeçiş\FormlarArasıGecis\obj\Debug\net5.0-windows\FormlarArasıGecis.AssemblyInfoInputs.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp-formdersleri\FormlarArasıGeçiş\FormlarArasıGeçiş\FormlarArasıGecis\obj\Debug\net5.0-windows\FormlarArasıGecis.AssemblyInfo.cs
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp-formdersleri\FormlarArasıGeçiş\FormlarArasıGeçiş\FormlarArasıGecis\obj\Debug\net5.0-windows\FormlarArasıGecis.csproj.CoreCompileInputs.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp-formdersleri\FormlarArasıGeçiş\FormlarArasıGeçiş\FormlarArasıGecis\obj\Debug\net5.0-windows\FormlarArasıGecis.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp-formdersleri\FormlarArasıGeçiş\FormlarArasıGeçiş\FormlarArasıGecis\obj\Debug\net5.0-windows\ref\FormlarArasıGecis.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp-formdersleri\FormlarArasıGeçiş\FormlarArasıGeçiş\FormlarArasıGecis\obj\Debug\net5.0-windows\FormlarArasıGecis.pdb
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp-formdersleri\FormlarArasıGeçiş\FormlarArasıGeçiş\FormlarArasıGecis\obj\Debug\net5.0-windows\FormlarArasıGecis.genruntimeconfig.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\FormlarArasıGeçiş\FormlarArasıGeçiş\FormlarArasıGecis\bin\Debug\net5.0-windows\FormlarArasıGecis.exe
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\FormlarArasıGeçiş\FormlarArasıGeçiş\FormlarArasıGecis\bin\Debug\net5.0-windows\FormlarArasıGecis.deps.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\FormlarArasıGeçiş\FormlarArasıGeçiş\FormlarArasıGecis\bin\Debug\net5.0-windows\FormlarArasıGecis.runtimeconfig.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\FormlarArasıGeçiş\FormlarArasıGeçiş\FormlarArasıGecis\bin\Debug\net5.0-windows\FormlarArasıGecis.runtimeconfig.dev.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\FormlarArasıGeçiş\FormlarArasıGeçiş\FormlarArasıGecis\bin\Debug\net5.0-windows\FormlarArasıGecis.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\FormlarArasıGeçiş\FormlarArasıGeçiş\FormlarArasıGecis\bin\Debug\net5.0-windows\ref\FormlarArasıGecis.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\FormlarArasıGeçiş\FormlarArasıGeçiş\FormlarArasıGecis\bin\Debug\net5.0-windows\FormlarArasıGecis.pdb
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\FormlarArasıGeçiş\FormlarArasıGeçiş\FormlarArasıGecis\obj\Debug\net5.0-windows\FormlarArasıGecis.csproj.AssemblyReference.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\FormlarArasıGeçiş\FormlarArasıGeçiş\FormlarArasıGecis\obj\Debug\net5.0-windows\FormlarArasıGecis.MyForm1.resources
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\FormlarArasıGeçiş\FormlarArasıGeçiş\FormlarArasıGecis\obj\Debug\net5.0-windows\FormlarArasıGecis.MyForm2.resources
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\FormlarArasıGeçiş\FormlarArasıGeçiş\FormlarArasıGecis\obj\Debug\net5.0-windows\FormlarArasıGecis.csproj.GenerateResource.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\FormlarArasıGeçiş\FormlarArasıGeçiş\FormlarArasıGecis\obj\Debug\net5.0-windows\FormlarArasıGecis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\FormlarArasıGeçiş\FormlarArasıGeçiş\FormlarArasıGecis\obj\Debug\net5.0-windows\FormlarArasıGecis.AssemblyInfoInputs.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\FormlarArasıGeçiş\FormlarArasıGeçiş\FormlarArasıGecis\obj\Debug\net5.0-windows\FormlarArasıGecis.AssemblyInfo.cs
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\FormlarArasıGeçiş\FormlarArasıGeçiş\FormlarArasıGecis\obj\Debug\net5.0-windows\FormlarArasıGecis.csproj.CoreCompileInputs.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\FormlarArasıGeçiş\FormlarArasıGeçiş\FormlarArasıGecis\obj\Debug\net5.0-windows\FormlarArasıGecis.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\FormlarArasıGeçiş\FormlarArasıGeçiş\FormlarArasıGecis\obj\Debug\net5.0-windows\ref\FormlarArasıGecis.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\FormlarArasıGeçiş\FormlarArasıGeçiş\FormlarArasıGecis\obj\Debug\net5.0-windows\FormlarArasıGecis.pdb
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-formdersleri\FormlarArasıGeçiş\FormlarArasıGeçiş\FormlarArasıGecis\obj\Debug\net5.0-windows\FormlarArasıGecis.genruntimeconfig.cache

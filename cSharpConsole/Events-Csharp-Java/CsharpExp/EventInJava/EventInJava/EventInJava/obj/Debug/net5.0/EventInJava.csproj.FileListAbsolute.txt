@@ -1,0 +1,16 @@
+C:\Users\nyks.35\source\Repos\cSharp-dersleri1\cSharp dersleri\cSharp-console-dersleri\Events-Csharp-Java\CsharpExp\EventInJava\EventInJava\EventInJava\obj\Debug\net5.0\EventInJava.csprojAssemblyReference.cache
+C:\Users\nyks.35\source\Repos\cSharp-dersleri1\cSharp dersleri\cSharp-console-dersleri\Events-Csharp-Java\CsharpExp\EventInJava\EventInJava\EventInJava\obj\Debug\net5.0\EventInJava.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyks.35\source\Repos\cSharp-dersleri1\cSharp dersleri\cSharp-console-dersleri\Events-Csharp-Java\CsharpExp\EventInJava\EventInJava\EventInJava\obj\Debug\net5.0\EventInJava.AssemblyInfoInputs.cache
+C:\Users\nyks.35\source\Repos\cSharp-dersleri1\cSharp dersleri\cSharp-console-dersleri\Events-Csharp-Java\CsharpExp\EventInJava\EventInJava\EventInJava\obj\Debug\net5.0\EventInJava.AssemblyInfo.cs
+C:\Users\nyks.35\source\Repos\cSharp-dersleri1\cSharp dersleri\cSharp-console-dersleri\Events-Csharp-Java\CsharpExp\EventInJava\EventInJava\EventInJava\obj\Debug\net5.0\EventInJava.csproj.CoreCompileInputs.cache
+C:\Users\nyks.35\source\Repos\cSharp-dersleri1\cSharp dersleri\cSharp-console-dersleri\Events-Csharp-Java\CsharpExp\EventInJava\EventInJava\EventInJava\bin\Debug\net5.0\EventInJava.exe
+C:\Users\nyks.35\source\Repos\cSharp-dersleri1\cSharp dersleri\cSharp-console-dersleri\Events-Csharp-Java\CsharpExp\EventInJava\EventInJava\EventInJava\bin\Debug\net5.0\EventInJava.deps.json
+C:\Users\nyks.35\source\Repos\cSharp-dersleri1\cSharp dersleri\cSharp-console-dersleri\Events-Csharp-Java\CsharpExp\EventInJava\EventInJava\EventInJava\bin\Debug\net5.0\EventInJava.runtimeconfig.json
+C:\Users\nyks.35\source\Repos\cSharp-dersleri1\cSharp dersleri\cSharp-console-dersleri\Events-Csharp-Java\CsharpExp\EventInJava\EventInJava\EventInJava\bin\Debug\net5.0\EventInJava.runtimeconfig.dev.json
+C:\Users\nyks.35\source\Repos\cSharp-dersleri1\cSharp dersleri\cSharp-console-dersleri\Events-Csharp-Java\CsharpExp\EventInJava\EventInJava\EventInJava\bin\Debug\net5.0\EventInJava.dll
+C:\Users\nyks.35\source\Repos\cSharp-dersleri1\cSharp dersleri\cSharp-console-dersleri\Events-Csharp-Java\CsharpExp\EventInJava\EventInJava\EventInJava\bin\Debug\net5.0\ref\EventInJava.dll
+C:\Users\nyks.35\source\Repos\cSharp-dersleri1\cSharp dersleri\cSharp-console-dersleri\Events-Csharp-Java\CsharpExp\EventInJava\EventInJava\EventInJava\bin\Debug\net5.0\EventInJava.pdb
+C:\Users\nyks.35\source\Repos\cSharp-dersleri1\cSharp dersleri\cSharp-console-dersleri\Events-Csharp-Java\CsharpExp\EventInJava\EventInJava\EventInJava\obj\Debug\net5.0\EventInJava.dll
+C:\Users\nyks.35\source\Repos\cSharp-dersleri1\cSharp dersleri\cSharp-console-dersleri\Events-Csharp-Java\CsharpExp\EventInJava\EventInJava\EventInJava\obj\Debug\net5.0\ref\EventInJava.dll
+C:\Users\nyks.35\source\Repos\cSharp-dersleri1\cSharp dersleri\cSharp-console-dersleri\Events-Csharp-Java\CsharpExp\EventInJava\EventInJava\EventInJava\obj\Debug\net5.0\EventInJava.pdb
+C:\Users\nyks.35\source\Repos\cSharp-dersleri1\cSharp dersleri\cSharp-console-dersleri\Events-Csharp-Java\CsharpExp\EventInJava\EventInJava\EventInJava\obj\Debug\net5.0\EventInJava.genruntimeconfig.cache

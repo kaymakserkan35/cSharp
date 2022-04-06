@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AdaptorA/1.0.0": {
+        "runtime": {
+          "AdaptorA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AdaptorA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

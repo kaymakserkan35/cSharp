@@ -1,0 +1,15 @@
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\yıkıcımethod\yıkıcınethod\bin\Debug\net5.0\yıkıcınethod.exe
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\yıkıcımethod\yıkıcınethod\bin\Debug\net5.0\yıkıcınethod.deps.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\yıkıcımethod\yıkıcınethod\bin\Debug\net5.0\yıkıcınethod.runtimeconfig.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\yıkıcımethod\yıkıcınethod\bin\Debug\net5.0\yıkıcınethod.runtimeconfig.dev.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\yıkıcımethod\yıkıcınethod\bin\Debug\net5.0\yıkıcınethod.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\yıkıcımethod\yıkıcınethod\bin\Debug\net5.0\ref\yıkıcınethod.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\yıkıcımethod\yıkıcınethod\bin\Debug\net5.0\yıkıcınethod.pdb
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\yıkıcımethod\yıkıcınethod\obj\Debug\net5.0\yıkıcınethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\yıkıcımethod\yıkıcınethod\obj\Debug\net5.0\yıkıcınethod.AssemblyInfoInputs.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\yıkıcımethod\yıkıcınethod\obj\Debug\net5.0\yıkıcınethod.AssemblyInfo.cs
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\yıkıcımethod\yıkıcınethod\obj\Debug\net5.0\yıkıcınethod.csproj.CoreCompileInputs.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\yıkıcımethod\yıkıcınethod\obj\Debug\net5.0\yıkıcınethod.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\yıkıcımethod\yıkıcınethod\obj\Debug\net5.0\ref\yıkıcınethod.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\yıkıcımethod\yıkıcınethod\obj\Debug\net5.0\yıkıcınethod.pdb
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\yıkıcımethod\yıkıcınethod\obj\Debug\net5.0\yıkıcınethod.genruntimeconfig.cache

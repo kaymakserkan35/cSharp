@@ -1,0 +1,16 @@
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-console-dersleri\ThreadWork\ThreadWork\ThreadWorkClient\bin\Debug\net5.0\ThreadWorkClient.exe
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-console-dersleri\ThreadWork\ThreadWork\ThreadWorkClient\bin\Debug\net5.0\ThreadWorkClient.deps.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-console-dersleri\ThreadWork\ThreadWork\ThreadWorkClient\bin\Debug\net5.0\ThreadWorkClient.runtimeconfig.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-console-dersleri\ThreadWork\ThreadWork\ThreadWorkClient\bin\Debug\net5.0\ThreadWorkClient.runtimeconfig.dev.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-console-dersleri\ThreadWork\ThreadWork\ThreadWorkClient\bin\Debug\net5.0\ThreadWorkClient.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-console-dersleri\ThreadWork\ThreadWork\ThreadWorkClient\bin\Debug\net5.0\ref\ThreadWorkClient.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-console-dersleri\ThreadWork\ThreadWork\ThreadWorkClient\bin\Debug\net5.0\ThreadWorkClient.pdb
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-console-dersleri\ThreadWork\ThreadWork\ThreadWorkClient\obj\Debug\net5.0\ThreadWorkClient.csprojAssemblyReference.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-console-dersleri\ThreadWork\ThreadWork\ThreadWorkClient\obj\Debug\net5.0\ThreadWorkClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-console-dersleri\ThreadWork\ThreadWork\ThreadWorkClient\obj\Debug\net5.0\ThreadWorkClient.AssemblyInfoInputs.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-console-dersleri\ThreadWork\ThreadWork\ThreadWorkClient\obj\Debug\net5.0\ThreadWorkClient.AssemblyInfo.cs
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-console-dersleri\ThreadWork\ThreadWork\ThreadWorkClient\obj\Debug\net5.0\ThreadWorkClient.csproj.CoreCompileInputs.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-console-dersleri\ThreadWork\ThreadWork\ThreadWorkClient\obj\Debug\net5.0\ThreadWorkClient.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-console-dersleri\ThreadWork\ThreadWork\ThreadWorkClient\obj\Debug\net5.0\ref\ThreadWorkClient.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-console-dersleri\ThreadWork\ThreadWork\ThreadWorkClient\obj\Debug\net5.0\ThreadWorkClient.pdb
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\cSharp-console-dersleri\ThreadWork\ThreadWork\ThreadWorkClient\obj\Debug\net5.0\ThreadWorkClient.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\class-propertyleri-donmek\classProporyleriniListelemek\bin\Debug\net5.0\classProporyleriniListelemek.exe
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\class-propertyleri-donmek\classProporyleriniListelemek\bin\Debug\net5.0\classProporyleriniListelemek.deps.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\class-propertyleri-donmek\classProporyleriniListelemek\bin\Debug\net5.0\classProporyleriniListelemek.runtimeconfig.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\class-propertyleri-donmek\classProporyleriniListelemek\bin\Debug\net5.0\classProporyleriniListelemek.runtimeconfig.dev.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\class-propertyleri-donmek\classProporyleriniListelemek\bin\Debug\net5.0\classProporyleriniListelemek.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\class-propertyleri-donmek\classProporyleriniListelemek\bin\Debug\net5.0\ref\classProporyleriniListelemek.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\class-propertyleri-donmek\classProporyleriniListelemek\bin\Debug\net5.0\classProporyleriniListelemek.pdb
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\class-propertyleri-donmek\classProporyleriniListelemek\obj\Debug\net5.0\classProporyleriniListelemek.csprojAssemblyReference.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\class-propertyleri-donmek\classProporyleriniListelemek\obj\Debug\net5.0\classProporyleriniListelemek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\class-propertyleri-donmek\classProporyleriniListelemek\obj\Debug\net5.0\classProporyleriniListelemek.AssemblyInfoInputs.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\class-propertyleri-donmek\classProporyleriniListelemek\obj\Debug\net5.0\classProporyleriniListelemek.AssemblyInfo.cs
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\class-propertyleri-donmek\classProporyleriniListelemek\obj\Debug\net5.0\classProporyleriniListelemek.csproj.CoreCompileInputs.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\class-propertyleri-donmek\classProporyleriniListelemek\obj\Debug\net5.0\classProporyleriniListelemek.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\class-propertyleri-donmek\classProporyleriniListelemek\obj\Debug\net5.0\ref\classProporyleriniListelemek.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\class-propertyleri-donmek\classProporyleriniListelemek\obj\Debug\net5.0\classProporyleriniListelemek.pdb
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\class-propertyleri-donmek\classProporyleriniListelemek\obj\Debug\net5.0\classProporyleriniListelemek.genruntimeconfig.cache

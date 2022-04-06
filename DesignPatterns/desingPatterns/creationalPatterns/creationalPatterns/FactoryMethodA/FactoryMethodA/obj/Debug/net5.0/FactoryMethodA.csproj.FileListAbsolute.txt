@@ -1,0 +1,16 @@
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YaratımsalPatterns\YaratımsalPatterns\FactoryMethodA\FactoryMethodA\bin\Debug\net5.0\FactoryMethodA.exe
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YaratımsalPatterns\YaratımsalPatterns\FactoryMethodA\FactoryMethodA\bin\Debug\net5.0\FactoryMethodA.deps.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YaratımsalPatterns\YaratımsalPatterns\FactoryMethodA\FactoryMethodA\bin\Debug\net5.0\FactoryMethodA.runtimeconfig.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YaratımsalPatterns\YaratımsalPatterns\FactoryMethodA\FactoryMethodA\bin\Debug\net5.0\FactoryMethodA.runtimeconfig.dev.json
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YaratımsalPatterns\YaratımsalPatterns\FactoryMethodA\FactoryMethodA\bin\Debug\net5.0\FactoryMethodA.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YaratımsalPatterns\YaratımsalPatterns\FactoryMethodA\FactoryMethodA\bin\Debug\net5.0\ref\FactoryMethodA.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YaratımsalPatterns\YaratımsalPatterns\FactoryMethodA\FactoryMethodA\bin\Debug\net5.0\FactoryMethodA.pdb
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YaratımsalPatterns\YaratımsalPatterns\FactoryMethodA\FactoryMethodA\obj\Debug\net5.0\FactoryMethodA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YaratımsalPatterns\YaratımsalPatterns\FactoryMethodA\FactoryMethodA\obj\Debug\net5.0\FactoryMethodA.AssemblyInfoInputs.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YaratımsalPatterns\YaratımsalPatterns\FactoryMethodA\FactoryMethodA\obj\Debug\net5.0\FactoryMethodA.AssemblyInfo.cs
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YaratımsalPatterns\YaratımsalPatterns\FactoryMethodA\FactoryMethodA\obj\Debug\net5.0\FactoryMethodA.csproj.CoreCompileInputs.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YaratımsalPatterns\YaratımsalPatterns\FactoryMethodA\FactoryMethodA\obj\Debug\net5.0\FactoryMethodA.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YaratımsalPatterns\YaratımsalPatterns\FactoryMethodA\FactoryMethodA\obj\Debug\net5.0\ref\FactoryMethodA.dll
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YaratımsalPatterns\YaratımsalPatterns\FactoryMethodA\FactoryMethodA\obj\Debug\net5.0\FactoryMethodA.pdb
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YaratımsalPatterns\YaratımsalPatterns\FactoryMethodA\FactoryMethodA\obj\Debug\net5.0\FactoryMethodA.genruntimeconfig.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp dersleri\DesignPatternsDersleri\YaratımsalPatterns\YaratımsalPatterns\FactoryMethodA\FactoryMethodA\obj\Debug\net5.0\FactoryMethodA.csprojAssemblyReference.cache

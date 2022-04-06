@@ -1,0 +1,14 @@
+C:\Users\Can\Desktop\OtomatikMail\bin\Debug\OtomatikMail.exe.config
+C:\Users\Can\Desktop\OtomatikMail\bin\Debug\OtomatikMail.exe
+C:\Users\Can\Desktop\OtomatikMail\bin\Debug\OtomatikMail.pdb
+C:\Users\Can\Desktop\OtomatikMail\obj\Debug\OtomatikMail.csprojAssemblyReference.cache
+C:\Users\Can\Desktop\OtomatikMail\obj\Debug\OtomatikMail.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\OtomatikMail\obj\Debug\OtomatikMail.exe
+C:\Users\Can\Desktop\OtomatikMail\obj\Debug\OtomatikMail.pdb
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp-formdersleri\AutoMailSend\Otomatik+Mail\bin\Debug\OtomatikMail.exe.config
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp-formdersleri\AutoMailSend\Otomatik+Mail\bin\Debug\OtomatikMail.exe
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp-formdersleri\AutoMailSend\Otomatik+Mail\bin\Debug\OtomatikMail.pdb
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp-formdersleri\AutoMailSend\Otomatik+Mail\obj\Debug\OtomatikMail.csprojAssemblyReference.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp-formdersleri\AutoMailSend\Otomatik+Mail\obj\Debug\OtomatikMail.csproj.CoreCompileInputs.cache
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp-formdersleri\AutoMailSend\Otomatik+Mail\obj\Debug\OtomatikMail.exe
+C:\Users\onurk\OneDrive\Desktop\cSharp dersleri\cSharp-formdersleri\AutoMailSend\Otomatik+Mail\obj\Debug\OtomatikMail.pdb

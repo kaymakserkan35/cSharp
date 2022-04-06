@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="PrototypeB.BasicImp.AbstractPrototype">
+    <Position X="6.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>BasicImp\AbstractPrototype.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PrototypeB.BasicImp.ConcretePrototype">
+    <Position X="5.25" Y="2.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>BasicImp\ConcretePrototype.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrototypeB.BasicImp.SubConcretePrototype">
+    <Position X="4.75" Y="5.25" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>BasicImp\SubConcretePrototype.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrototypeB.Program">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

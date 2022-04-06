@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="BridgeA.Bridge.ADevice">
+    <Position X="10.5" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAQAAAAAAAAAAAAACAAAAAAgAgAAAAAA=</HashCode>
+      <FileName>Bridge\ADevice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BridgeA.Bridge.Tv">
+    <Position X="8.5" Y="3.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgIAAAAQAAAAAAAAAAAAACAAAAAAoAgAAAAAA=</HashCode>
+      <FileName>Bridge\Tv.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BridgeA.Bridge.Radio">
+    <Position X="12.5" Y="3.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgIAAAAQAAAAAAAAAAAAACAAAAAAoAgAAAAAA=</HashCode>
+      <FileName>Bridge\Radio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BridgeA.Bridge.BasicRemote">
+    <Position X="3.75" Y="3" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABCAAAAEAAAAAAAAAAAAAEAAAAAAAAAAAEAAAQ=</HashCode>
+      <FileName>Bridge\BasicRemote.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BridgeA.Bridge.AdvancedRemote">
+    <Position X="3.75" Y="6.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bridge\AdvancedRemote.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BridgeA.Program">
+    <Position X="2" Y="1" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="BridgeA.Bridge.IRemote">
+    <Position X="4" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAEAAAAAAAAAAAAAEAAAAAAAAAAAEAAAQ=</HashCode>
+      <FileName>Bridge\IRemote.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

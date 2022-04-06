@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="Proxy_Vekil_Pattern1.ABasbakan">
+    <Position X="7.25" Y="1.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\ABasbakan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proxy_Vekil_Pattern1.Basbakan">
+    <Position X="11.75" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Basbakan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proxy_Vekil_Pattern1.VekilBasbakan">
+    <Position X="2" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAAgAACAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\VekilBasbakan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proxy_Vekil_Pattern1.Classes.Birey">
+    <Position X="8.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAgAAABAAAA=</HashCode>
+      <FileName>Classes\Birey.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

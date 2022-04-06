@@ -1,0 +1,16 @@
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\enums\enumApp\enumApp\bin\Debug\net5.0\enumApp.exe
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\enums\enumApp\enumApp\bin\Debug\net5.0\enumApp.deps.json
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\enums\enumApp\enumApp\bin\Debug\net5.0\enumApp.runtimeconfig.json
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\enums\enumApp\enumApp\bin\Debug\net5.0\enumApp.runtimeconfig.dev.json
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\enums\enumApp\enumApp\bin\Debug\net5.0\enumApp.dll
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\enums\enumApp\enumApp\bin\Debug\net5.0\ref\enumApp.dll
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\enums\enumApp\enumApp\bin\Debug\net5.0\enumApp.pdb
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\enums\enumApp\enumApp\obj\Debug\net5.0\enumApp.csprojAssemblyReference.cache
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\enums\enumApp\enumApp\obj\Debug\net5.0\enumApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\enums\enumApp\enumApp\obj\Debug\net5.0\enumApp.AssemblyInfoInputs.cache
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\enums\enumApp\enumApp\obj\Debug\net5.0\enumApp.AssemblyInfo.cs
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\enums\enumApp\enumApp\obj\Debug\net5.0\enumApp.csproj.CoreCompileInputs.cache
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\enums\enumApp\enumApp\obj\Debug\net5.0\enumApp.dll
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\enums\enumApp\enumApp\obj\Debug\net5.0\ref\enumApp.dll
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\enums\enumApp\enumApp\obj\Debug\net5.0\enumApp.pdb
+C:\Users\onurk\OneDrive\Desktop\c sharp çalışmaları\enums\enumApp\enumApp\obj\Debug\net5.0\enumApp.genruntimeconfig.cache

@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "2ujrjR7x1Bq3Ge7044CvIfT6Ut8H6scy6EoZeVROs0pfqLCVM921QQwRoWfRyDvTS8WBtbNxIP75E4x/LkeLfA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\onurk\\OneDrive\\Desktop\\cSharp dersleri\\cSharp dersleri\\cSharp-formdersleri\\RuntimeObject-LifeTime\\RuntimeObject-LifeTime\\RuntimeObject-LifeTime\\RuntimeObject-LifeTime.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\onurk\\.nuget\\packages\\control.draggable\\1.0.5049.269\\control.draggable.1.0.5049.269.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Control.Draggable 1.0.5049.269' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Control.Draggable",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    }
+  ]
+}

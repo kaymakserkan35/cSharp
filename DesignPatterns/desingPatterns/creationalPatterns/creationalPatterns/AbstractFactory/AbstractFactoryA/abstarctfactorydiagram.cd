@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Comment CommentText="alt elementler bir soyut component adlı bir sınıfta toplanabilir">
+    <Position X="2.469" Y="0.625" Height="0.75" Width="1.7" />
+  </Comment>
+  <Class Name="AbstractFactoryA.Classses.WinFactory">
+    <Position X="7" Y="3.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classses\WinFactory.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.283" />
+  </Class>
+  <Class Name="AbstractFactoryA.Classses.MacFactory">
+    <Position X="10.5" Y="3.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classses\MacFactory.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AbstractFactoryA.Classses.MacButton" Collapsed="true">
+    <Position X="1" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Classses\MacButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AbstractFactoryA.AbstractButton" Collapsed="true">
+    <Position X="2.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AbstractButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="AbstractFactoryA.Classses.GUIFactory">
+    <Position X="8.25" Y="1.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classses\GUIFactory.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
